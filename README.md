@@ -20,4 +20,4 @@
 
 我们采用CDN加速技术，保证视频流畅播放，减少卡顿现象，确保您无论在任何设备上观看，都有极佳的体验。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/tromvia20250707/tromvia9 ）</span>
